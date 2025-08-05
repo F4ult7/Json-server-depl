@@ -1,33 +1,81 @@
 {
-  "projects": [
+  "favorites": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "tmdbId": 552524,
+      "title": "Lilo & Stitch",
+      "release_date": "2025-05-17",
+      "poster_path": "/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
+      "id": 7
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "tmdbId": 1234821,
+      "title": "Jurassic World Rebirth",
+      "release_date": "2025-07-01",
+      "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "id": 18
+    },
+    {
+      "tmdbId": 1263256,
+      "title": "Happy Gilmore 2",
+      "release_date": "2025-07-25",
+      "poster_path": "/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
+      "id": 20
     }
   ],
-  "tasks": [
+  "reviews": [
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "author": "Tim",
+      "comment": "WOW this movie is trash",
+      "tmdbId": 1311031,
+      "id": 1
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "author": "w",
+      "comment": "w",
+      "tmdbId": 1061474,
+      "id": 2
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "author": "Mr.Miyagi",
+      "comment": "fantastic movie ",
+      "tmdbId": 617126,
+      "id": 4
+    },
+    {
+      "author": "kostas",
+      "comment": "ksss2222",
+      "tmdbId": 1071585,
+      "id": 5
+    },
+    {
+      "author": "kk",
+      "comment": "highly reccomended!!\n",
+      "tmdbId": "755898",
+      "id": 6
+    },
+    {
+      "author": "Tim",
+      "comment": "I spend 2 hours from my life for this?",
+      "tmdbId": "755898",
+      "id": 7
+    },
+    {
+      "author": "kostas",
+      "comment": "WTF is this !",
+      "tmdbId": "1100988",
+      "id": 8
+    },
+    {
+      "author": "kostas",
+      "comment": "fk this !",
+      "tmdbId": "552524",
+      "id": 9
+    },
+    {
+      "author": "Tim ",
+      "comment": "i saw it for a second time to make sure it was shit!!",
+      "tmdbId": "755898",
+      "id": 10
     }
   ]
 }
